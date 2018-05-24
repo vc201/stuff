@@ -1,0 +1,19 @@
+[push]
+        default = simple
+[user]
+        email = user@vbox.com
+        name = user
+[core]
+        editor = vim 
+
+[alias]
+        st = status
+        co = checkout
+        cm = commit
+        pu = push
+        pl = pull
+        br = branch
+        fe = fetch
+        sh = stash
+        mg = merge
+	cl = clone
